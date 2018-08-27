@@ -61,6 +61,7 @@ group :test do
   gem 'sqlite3'
   # Easy installation and use of chromedriver to run system tests with Chrome
   gem 'chromedriver-helper'
+  gem 'byebug'
 end
 
 group :production do
